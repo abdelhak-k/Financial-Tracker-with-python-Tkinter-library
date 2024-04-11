@@ -1,6 +1,6 @@
 # Financial Tracker
 #### **Quick note:**
-<font color="#FF0000">this project was my final project for CS50P course.</font>
+`This project was my final project for CS50P course`
 
 #### Description:
 The Financial Tracker App is a user-friendly application designed to assist individuals in managing their finances effectively. It offers a simple yet comprehensive platform for tracking income, expenses, and overall financial status. With intuitive features and a clean interface, users can gain better control over their finances and make informed decisions regarding their money management.
